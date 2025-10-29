@@ -4,7 +4,7 @@ const path = require('path');
 
 // Конфигурация бота
 const BOT_TOKEN = '8432249611:AAHWMs9ZysSoRuKVxhGdO-FE-bPP2xyWmXs';
-const GROUP_ID = '-1002540229091'; // Замените на реальный ID группы
+const GROUP_ID = '-2540229091'; // Замените на реальный ID группы
 const IMAGES_FOLDER = 'images';
 
 // Создаем папку для изображений, если ее нет
